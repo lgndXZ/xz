@@ -1,0 +1,36 @@
+html,body{
+	height: 100%;
+	margin: 0;
+}
+h1{
+	font-size: 7em;
+	margin-bottom: 0;
+	color: #fff;
+}
+h2{
+	font-size: 4em;
+	padding-bottom: 10px;
+	text-align: right;
+	margin-bottom: 0;
+}
+.main{
+	position: relative;
+}
+.box{
+	display: none;
+}
+.box-projects{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.box-me{
+	position: absolute;
+	top: 100px;
+	left: 30%;
+}
+.box-links{
+	position: absolute;
+	top: 200px;
+	left: 60%;
+}
